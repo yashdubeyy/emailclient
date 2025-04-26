@@ -60,7 +60,7 @@ const PrivacyPolicyPage = () => {
                         tracking technologies, such as cookies. Information that is collected with these technologies may be necessary to
                         operate the website or service, to improve performance, to help us understand how our online services are used, or to
                         determine the interests of our users. We use advertising partners to provide and assist in the use of such technologies
-                        on www.normalhuman.com and other sites.
+                        on www.emailclient.com and other sites.
                     </p>
                     <h3 className="text-left text-2xl font-semibold text-gray-600 mb-5">
                         Children

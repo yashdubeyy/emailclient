@@ -36,7 +36,7 @@ export function Mail({
   defaultCollapsed = false,
   navCollapsedSize,
 }: MailProps) {
-  const [done, setDone] = useLocalStorage('normalhuman-done', false)
+  const [done, setDone] = useLocalStorage('emailclient-done', false)
   const [isCollapsed, setIsCollapsed] = React.useState(defaultCollapsed)
 
 

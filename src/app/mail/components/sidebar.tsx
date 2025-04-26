@@ -21,7 +21,7 @@ type Props = { isCollapsed: boolean }
 
 const SideBar = ({ isCollapsed }: Props) => {
 
-    const [tab] = useLocalStorage("normalhuman-tab", "inbox")
+    const [tab] = useLocalStorage("emailclient-tab", "inbox")
     const [accountId] = useLocalStorage("accountId", "")
 
     const refetchInterval = 5000
