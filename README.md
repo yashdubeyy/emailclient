@@ -80,6 +80,10 @@ Follow the steps below to install and setup the project:
 
     ```bash
     npm run dev
+
+      Or 
+
+   npx next dev --port 3001
     ```
 
     Open [http://localhost:30001](http://localhost:30001) with your browser to see the result.
