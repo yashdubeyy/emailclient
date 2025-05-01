@@ -15,7 +15,17 @@ In this step-by-step tutorial, you'll learn how to develop:
 
 
 
+
+
+
+
+
+
+
+
 ![Screenshot 2025-04-12 004552](https://github.com/user-attachments/assets/37761863-14df-4731-94b0-7a3e72e27841)
+
+
 
 
 Whether you're an experienced developer or just starting your journey with Next.js, this project offers valuable insights into building production-ready applications with the latest web technologies.
