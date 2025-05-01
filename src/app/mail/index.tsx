@@ -12,20 +12,19 @@ export default function MailPage() {
   return (
     <>
       <div className="md:hidden">
-        <img
-          src="/examples/mail-dark.png"
-          width={1280}
-          height={727}
-          alt="Mail"
-          className="hidden dark:block"
-        />
-        <img
-          src="/examples/mail-light.png"
-          width={1280}
-          height={727}
-          alt="Mail"
-          className="block dark:hidden"
-        />
+        <div className="flex flex-col items-center justify-center h-screen p-6 text-center">
+          <img
+            src="/logo.png"
+            width={120}
+            height={120}
+            alt="Email Client Logo"
+            className="mb-6"
+          />
+          <h1 className="text-2xl font-bold mb-2">Please use a larger screen</h1>
+          <p className="text-muted-foreground">
+            This email client is optimized for desktop and tablet views.
+          </p>
+        </div>
       </div>
       <div className="flex-col hidden md:flex h-screen overflow-scroll">
         <Mail
