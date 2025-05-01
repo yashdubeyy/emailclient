@@ -13,6 +13,10 @@ In this step-by-step tutorial, you'll learn how to develop:
 - Secure payment processing using Stripe
 - Webhook integration for real-time event handling
 
+
+![Screenshot 2025-04-12 004552](https://github.com/user-attachments/assets/72bf57de-1dad-4a97-9cd3-0fc21d8e5ced)
+
+
 Whether you're an experienced developer or just starting your journey with Next.js, this project offers valuable insights into building production-ready applications with the latest web technologies.
 
 Get ready to enhance your full-stack development skills as we create a sophisticated application that combines modern UI, artificial intelligence, and seamless payment processing! 🚀
