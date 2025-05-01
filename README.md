@@ -14,7 +14,8 @@ In this step-by-step tutorial, you'll learn how to develop:
 - Webhook integration for real-time event handling
 
 
-![Screenshot 2025-04-12 004552](https://github.com/user-attachments/assets/72bf57de-1dad-4a97-9cd3-0fc21d8e5ced)
+![Uploading Screenshot 2025-04-12 004552.png…]()
+
 
 
 Whether you're an experienced developer or just starting your journey with Next.js, this project offers valuable insights into building production-ready applications with the latest web technologies.
