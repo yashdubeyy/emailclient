@@ -14,14 +14,7 @@ In this step-by-step tutorial, you'll learn how to develop:
 - Webhook integration for real-time event handling
 
 
-
-
-
-
-![Uploading Email Client Saas.png…]()
-
-
-
+<img width="2245" height="1587" alt="Email Client Saas" src="https://github.com/user-attachments/assets/5e9ed0f2-f234-4170-904b-c1babde4c0ca" />
 
 
 
